@@ -111,10 +111,6 @@ Emprendimiento      construir con curiosidad, velocidad y visión de impacto
 
 <div align="center">
 
----
-
-### Building the future, one product at a time
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:8b5cf6&height=2&section=header&reversal=false" width="70%"/>
