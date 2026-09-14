@@ -111,14 +111,6 @@ Emprendimiento      construir con curiosidad, velocidad y visión de impacto
 
 <div align="center">
 
-> "The best way to predict the future is to build it."
-
-</div>
-
----
-
-<div align="center">
-
-### Siempre aprendiendo, siempre construyendo.
+"The best way to predict the future is to build it."
 
 </div>
