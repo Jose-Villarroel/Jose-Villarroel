@@ -109,16 +109,6 @@ Emprendimiento      construir con curiosidad, velocidad y visión de impacto
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Jose-Villarroel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
-
-## Frase que me inspira
-
 <div align="center">
 
 > "The best way to predict the future is to build it."
