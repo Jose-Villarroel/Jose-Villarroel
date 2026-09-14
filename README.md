@@ -111,6 +111,24 @@ Emprendimiento      construir con curiosidad, velocidad y visión de impacto
 
 <div align="center">
 
-"The best way to predict the future is to build it."
+---
+
+### Building the future, one product at a time
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:8b5cf6&height=2&section=header&reversal=false" width="70%"/>
+
+<br>
+<br>
+
+> ### "The best way to predict the future is to build it."
+
+<sub>Ideas become real when they are designed, built, tested and improved.</sub>
+
+<br>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,50:0ea5e9,100:0f172a&height=2&section=footer&reversal=false" width="70%"/>
 
 </div>
